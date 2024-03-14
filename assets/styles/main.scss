@@ -117,11 +117,11 @@ p {
 
 code {
   border: 0.1px solid $offwhite;
-  border-radius: .4rem;
+  border-radius: .2rem;
   box-shadow: 0 0 .1rem $grey;
   display: inline-block;
   font-family: $mono;
-  font-size: .8 * $base-size;
+  font-size: .67 * $base-size;
   padding: 0 .3rem;
 
   pre > & {
