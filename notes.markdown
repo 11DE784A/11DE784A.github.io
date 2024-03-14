@@ -4,6 +4,11 @@ layout: default
 ---
 
 # Notes
+[__Universal Coefficient Theorem for
+Homology__](/assets/files/notes/universal_coefficient_theorem_for_homology.pdf)
+Definition of homology with coefficients (in an abelian group) and a proof of
+the universal coefficient theorem, modulo some facts from homological algebra.
+Made in preparation of a lecture I did for my algebraic topology reading group.
 
 [__Schrödinger-Lichnerowicz-Weitzenböck
 Formula__](/assets/files/notes/schrodinger_lichnerowicz_weitzenbock_formula.pdf)
