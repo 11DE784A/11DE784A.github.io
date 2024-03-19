@@ -6,7 +6,7 @@ tags: []
 excerpt: I hate reading long PDFs that do not have an outline attached. So, I spent one afternoon making an outline for arXiv:1001.2933, when I should have been reading it.
 ---
 
-I hate reading long PDFs that do not have an outline attached. I spent one
+I hate reading long PDFs that do not have an outline attached. So, I spent one
 afternoon making an outline for Witten's _Analytic Continuation of Chern–Simons
 Theory_, when I should have been reading it.
 
