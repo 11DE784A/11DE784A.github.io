@@ -42,7 +42,8 @@ For academic details see [my CV](/assets/files/cv_ayush_singh.pdf).
 [Timetable](https://github.com/sdgniser/timetable).
 
 <figure class="wide">
-  <video autoplay loop>
+  <video autoplay loop muted playsinline>
+    <source src="assets/life.mp4">
     <source src="assets/life.webm">
   </video>
 </figure>
