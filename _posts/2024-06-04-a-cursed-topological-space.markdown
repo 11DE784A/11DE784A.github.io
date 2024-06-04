@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Cursed Topological Space"
+title:  "A Cursed Space in the Wild"
 date: 2024-06-04 00:00:01 +0100
 tags: []
 ---
@@ -22,8 +22,9 @@ But if you are geometrically minded, you might think that linear maps are just
 matrices, so the space of all linear maps must be $$R_{m, n} = \mathrm{Mat}_{n \times
 m}(\mathbb{C}) \cong \mathbb{C}^{mn}$$, where $$\dim V = m$$ and $$\dim W =
 n$$. And identifying linear maps that are equivalent under change of bases is
-done by quotienting this space by the group $$G_{m, n}$$ $$= \mathrm{GL}(V) \oplus
-\mathrm{GL}(W) \cong$$ $$\mathrm{GL}_m(\mathbb{C}) \oplus
+done by quotienting this space by the group $$G_{m, n}$$ $$= \mathrm{GL}(V)
+\times
+\mathrm{GL}(W) \cong$$ $$\mathrm{GL}_m(\mathbb{C}) \times
 \mathrm{GL}_n(\mathbb{C})$$. And then, you will conclude that the
 classification problem is solved completely by the space $$M_{m, n} = R_{m, n}
 / G_{m, n}$$.
@@ -40,7 +41,7 @@ $$
 which is exactly a change of basis. 
 
 Now, let us do the simplest case: $$m = n = 1$$. We have $$R_{1, 1} \cong
-\mathbb{C}$$ and $$G_{1, 1} \cong \mathbb{C}^* \oplus \mathbb{C}^*$$, and the
+\mathbb{C}$$ and $$G_{1, 1} \cong \mathbb{C}^* \times \mathbb{C}^*$$, and the
 action $$G_{1, 1} \curvearrowright R_{1, 1}$$ is given by $$(s, t)\cdot a = (t
 / s) a$$ for every $$a \in \mathbb{C}$$ and $$s, t \in \mathbb{C}^*$$. It is an
 easy exercise to show that $$M_{1, 1} = \{[0], [1]\}$$.
@@ -54,11 +55,11 @@ makes $$M_{1, 1}$$ the
 
 Indeed, the point $$\{[0]\} \subset M_{1, 1}$$ is closed because the orbit is a
 singleton, whose complement is open in $$\mathbb C.$$ It is not open because the orbit is
-is not open in $$\mathbb C$$. $$\{[1]\} \subset M_{1, 1}$$ is open
+not open in $$\mathbb C$$. $$\{[1]\} \subset M_{1, 1}$$ is open
 because its orbit $$\mathbb C \setminus \{0\} \subset \mathbb C$$ is open. It is not closed
 because the complement of its orbit is a singleton and therefore not open in
-$$\mathbb C$$. Furthermore, as a result, the closure $$\overline{\{[1]\}} = M_{1, 1}$$ is
-equal to the whole space.
+$$\mathbb C$$. Furthermore, as a result, the closure of $${\{[1]\}}$$ is
+equal to the whole space, $$M_{1, 1}$$.
 
 The only things I knew about this space before seeing this example were that
 
