@@ -6,7 +6,7 @@ tags: []
 ---
 
 Recently, I had the misfortune of coming across the Sierpiński 2-point space in
-the wild. And while I'm sure that I must have seen it a within minutes of
+the wild. And while I'm sure that I must have seen it within minutes of
 learning the definition of a topological space, seeing it arise naturally in a
 linear algebra problem (of all places!) was horrifying.
 
