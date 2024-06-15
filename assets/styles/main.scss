@@ -92,6 +92,13 @@ video {
   width: 45%;
 }
 
+.many {
+  display: flex;
+  img {
+    margin: .5px;
+  }
+}
+
 figure {
   img,
   video {
