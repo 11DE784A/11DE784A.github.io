@@ -95,7 +95,9 @@ video {
 .many {
   display: flex;
   img {
+    flex: 1;
     margin: .5px;
+    min-width: 0;
   }
 }
 
