@@ -16,6 +16,11 @@ $smallcaps: 'EB Garamond SC';
 $mono: monospace;
 
 /* Sass starts here! */
+
+:root {
+  color-scheme: light dark;
+}
+
 *,
 *::before,
 *::after {
@@ -31,8 +36,8 @@ html {
 }
 
 body {
-  background: $white;
-  color: $black;
+  background: light-dark($bg1-light, $bg1-dark);
+  color: light-dark($fg1-light, $fg1-dark);
   font-size: $base-size;
   line-height: 1.3;
   margin: 0 auto;
@@ -59,7 +64,7 @@ h6 {
   font-size: 100%;
   font-style: normal;
   font-weight: bold;
-  color: $black;
+  color: light-dark($fg1-light, $fg1-dark);
 }
 
 h1 {
@@ -120,14 +125,13 @@ figure {
 p {
   hyphens: auto;
   &.post-date {
-    color: $grey;
+    color: light-dark($fg2-light, $fg2-dark);
   }
 }
 
 code {
-  border: 0.1px solid $offwhite;
+  border: 0.1px solid light-dark($bg2-light, $bg2-dark);
   border-radius: .2rem;
-  box-shadow: 0 0 .1rem $grey;
   display: inline-block;
   font-family: $mono;
   font-size: .67 * $base-size;
@@ -142,8 +146,8 @@ code {
 
 
 blockquote {
-  border-left: 0.5rem solid $offwhite;
-  color: $grey;
+  border-left: 0.5rem solid light-dark($bg2-light, $bg2-dark);
+  color: light-dark($fg2-light, $fg2-dark);
   padding: .6rem 0 .6rem 1.8rem;
 
   cite {
@@ -183,7 +187,7 @@ main {
   }
 
   hr {
-    color: $offwhite;
+    color: light-dark($bg2-light, $bg2-dark);
     margin: 0 auto;
     margin-bottom: 1.4rem;
     width: 75%;
@@ -194,7 +198,7 @@ article {
   margin-bottom: 1.8rem;
 
   .date {
-    color: $grey;
+    color: light-dark($fg2-light, $fg2-dark);
   }
 
   .detail {
@@ -222,17 +226,17 @@ a {
   &:link,
   &:visited,
   &:focus {
-    color: $black;
+    color: light-dark($fg1-light, $fg1-dark);
   }
 
   &:hover,
   &:active {
-    background: $accentlight;
+    background: light-dark($accent2-light, $accent2-dark);
   }
 
   &::after {
     content: "°";
-    color: $accent;
+    color: light-dark($accent1-light, $accent1-dark);
     margin-left: 0.05 * $base-size;
   }
 }
@@ -242,7 +246,7 @@ a.reversefootnote {
   &:link,
   &:visited,
   &:focus {
-    color: $accent;
+    color: light-dark($accent1-light, $accent1-dark);
   }
 
   &::after {
@@ -255,7 +259,7 @@ nav a,
   &:link,
   &:visited,
   &:focus {
-    color: $accent;
+    color: light-dark($accent1-light, $accent1-dark);
     font-weight: bold;
   }
 
@@ -266,13 +270,13 @@ nav a,
 
 
 footer {
-  color: $grey;
+  color: light-dark($fg2-light, $fg2-dark);
   text-align: right;
 
   a {
     &:link,
     &:visited {
-      color: $grey;
+      color: light-dark($fg2-light, $fg2-dark);
     }
   }
 }
@@ -321,27 +325,27 @@ footer {
   }
   
   input {
-    border: 1px solid $grey;
+    border: 1px solid light-dark($fg2-light, $fg2-dark);
     padding: 1rem;
     max-width: 24rem;
     min-width: 10rem;
     flex: auto;
   
     &:focus {
-      border: 1px solid $accent;
+      border: 1px solid light-dark($accent1-light, $accent1-dark);
     }
   }
   
   button {
     border-radius: 0;
-    background: $accent;
+    background: light-dark($accent1-light, $accent1-dark);
     color: white;
-    border: 1px solid $accent;
+    border: 1px solid light-dark($accent1-light, $accent1-dark);
     min-width: 10rem;
   
     &:hover {
       cursor: pointer;
-      background: $accent;
+      background: light-dark($accent1-light, $accent1-dark);
     }
   }
 }

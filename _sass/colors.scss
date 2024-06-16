@@ -1,9 +1,37 @@
-/* Light Colors */
 
-$black: #000;
 $white: #fff;
-$offwhite: #eee;
-$grey: #444;
+$black: #000;
 
-$accent: #D01137;
-$accentlight: #FDECF0;
+$grey-ee: #eee;
+$grey-aa: #aaa;
+$grey-44: #444;
+$grey-33: #333;
+$grey-1b: #1b1b1b;
+
+$cardinal: #d01137;
+$crayola: #f36884;
+$lavender-blush: #fdecf0;
+$raisin-black: #302729;
+
+/* Light colors */
+
+$bg1-light: $white;
+$bg2-light: $grey-ee;
+
+$fg1-light: $black;
+$fg2-light: $grey-44;
+
+$accent1-light: $cardinal;
+$accent2-light: $lavender-blush;
+
+/* Dark colors */
+
+$bg1-dark: $grey-1b;
+$bg2-dark: $grey-33;
+
+$fg1-dark: $grey-ee;
+$fg2-dark: $grey-aa;
+
+$accent1-dark: $crayola;
+$accent2-dark: $raisin-black;
+
