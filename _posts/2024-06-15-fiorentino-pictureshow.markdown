@@ -6,7 +6,7 @@ tags: []
 ---
 
 I visited the Galileo Galilei Institute in Florence for a couple of weeks in
-April and May.  Here are some pictures from the trips.
+April and May.  Here are some pictures from the trip.
 
 {% include image.html width="wide"
 url="/assets/images/fiorentino_pictureshow/skyline_afternoon_h.jpg" 

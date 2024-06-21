@@ -78,7 +78,7 @@ elementary linear algebra problem.
 ---
 I learned about this in Marcus Reineke's great series of lectures on Quivers
 and Cohomological Hall Algebras at the 
-[Galelio Galelei Institute in May 2024](https://www.ggi.infn.it/showevent.pl?id=498).
+[Galileo Galilei Institute in May 2024](https://www.ggi.infn.it/showevent.pl?id=498).
 
 
 
