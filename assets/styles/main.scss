@@ -4,13 +4,6 @@
 /* Colors! */
 @import 'colors.scss';
 
-$bg1: light-dark($bg1-light, $bg1-dark);
-$bg2: light-dark($bg2-light, $bg2-dark);
-$fg1: light-dark($fg1-light, $fg1-dark);
-$fg2: light-dark($fg2-light, $fg2-dark);
-$accent1: light-dark($accent1-light, $accent1-dark);
-$accent2: light-dark($accent2-light, $accent2-dark);
-
 /* Mixins */
 @import 'mixins.scss';
 
@@ -22,41 +15,30 @@ $serif: 'EB Garamond', 'Sahitya', serif;
 $smallcaps: 'EB Garamond SC';
 $mono: monospace;
 
-/* Icons */
-
-.icon-tabler-moon,
-.icon-tabler-sun {
-  vertical-align: baseline;
-  height: $base-size;
-  width: $base-size;
-  stroke: $fg1;
-  stroke-width: 1.5;
-}
-
-/* Sass starts here! */
-
-@media (prefers-color-scheme: light) { 
-  .toggle-theme .dark { 
-    display: none; 
-  }
-}
-
-@media (prefers-color-scheme: dark) { 
-  .life video {
-    filter: invert(0.895);
+@supports (color: light-dark(#fff, #000)) {
+  :root {
+    color-scheme: light dark;
   }
 
-  img {
-    filter: brightness(.8) contrast(1.2);
+  @media (prefers-color-scheme: light) { 
+    .toggle-theme .dark { 
+      display: none; 
+    }
   }
-
-  .toggle-theme .light { 
-    display: none; 
+  
+  @media (prefers-color-scheme: dark) { 
+    .life video {
+      filter: invert(0.895);
+    }
+  
+    img {
+      filter: brightness(.8) contrast(1.2);
+    }
+  
+    .toggle-theme .light { 
+      display: none; 
+    }
   }
-}
-
-:root {
-  color-scheme: light dark;
 }
 
 *,
@@ -74,8 +56,8 @@ html {
 }
 
 body {
-  background: $bg1;
-  color: $fg1;
+  background: var(--bg1);
+  color: var(--fg1);
   font-size: $base-size;
   line-height: 1.3;
   margin: 0 auto;
@@ -102,7 +84,7 @@ h6 {
   font-size: 100%;
   font-style: normal;
   font-weight: bold;
-  color: $fg1;
+  color: var(--fg1);
 }
 
 h1 {
@@ -163,12 +145,12 @@ figure {
 p {
   hyphens: auto;
   &.post-date {
-    color: $fg2;
+    color: var(--fg2);
   }
 }
 
 code {
-  border: 0.1px solid $bg2;
+  border: 0.1px solid var(--bg2);
   border-radius: .2rem;
   display: inline-block;
   font-family: $mono;
@@ -184,8 +166,8 @@ code {
 
 
 blockquote {
-  border-left: 0.5rem solid $bg2;
-  color: $fg2;
+  border-left: 0.5rem solid var(--bg2);
+  color: var(--fg2);
   padding: .6rem 0 .6rem 1.8rem;
 
   cite {
@@ -244,7 +226,7 @@ main {
   }
 
   hr {
-    color: $bg2;
+    color: var(--bg2);
     margin: 0 auto;
     margin-bottom: 1.4rem;
     width: 75%;
@@ -255,7 +237,7 @@ article {
   margin-bottom: 1.8rem;
 
   .date {
-    color: $fg2;
+    color: var(--fg2);
   }
 
   .detail {
@@ -283,17 +265,17 @@ a {
   &:link,
   &:visited,
   &:focus {
-    color: $fg1;
+    color: var(--fg1);
   }
 
   &:hover,
   &:active {
-    background: $accent2;
+    background: var(--accent2);
   }
 
   &::after {
     content: "°";
-    color: $accent1;
+    color: var(--accent1);
     margin-left: 0.05 * $base-size;
   }
 }
@@ -303,7 +285,7 @@ a.reversefootnote {
   &:link,
   &:visited,
   &:focus {
-    color: $accent1;
+    color: var(--accent1);
   }
 
   &::after {
@@ -316,7 +298,7 @@ nav a,
   &:link,
   &:visited,
   &:focus {
-    color: $accent1;
+    color: var(--accent1);
     font-weight: bold;
   }
 
@@ -327,13 +309,13 @@ nav a,
 
 
 footer {
-  color: $fg2;
+  color: var(--fg2);
   text-align: right;
 
   a {
     &:link,
     &:visited {
-      color: $fg2;
+      color: var(--fg2);
     }
   }
 }
@@ -362,5 +344,14 @@ footer {
 
 .mjx-chtml {
   font-size: 95.5% !important;
+}
+
+.icon-tabler-moon,
+.icon-tabler-sun {
+  vertical-align: baseline;
+  height: $base-size;
+  width: $base-size;
+  stroke: var(--fg1);
+  stroke-width: 1.5;
 }
 

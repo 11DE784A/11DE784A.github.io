@@ -1,38 +1,63 @@
 
-$white: #fff;
-$black: #000;
+:root {
 
-$grey-ee: #eee;
-$grey-df: #dfdfdf;
-$grey-aa: #aaa;
-$grey-44: #444;
-$grey-33: #333;
-$grey-1b: #1b1b1b;
+  /* All colors */
 
-$cardinal: #d01137;
-$crayola: #f36884;
-$lavender-blush: #fdecf0;
-$raisin-black: #302729;
+  --white: #fff;
+  --black: #000;
+  
+  --grey-ee: #eee;
+  --grey-df: #dfdfdf;
+  --grey-aa: #aaa;
+  --grey-44: #444;
+  --grey-33: #333;
+  --grey-1b: #1b1b1b;
+  
+  --cardinal: #d01137;
+  --crayola: #f36884;
+  --lavender-blush: #fdecf0;
+  --raisin-black: #302729;
 
-/* Light colors */
+  /* Light colors */
 
-$bg1-light: $white;
-$bg2-light: $grey-ee;
+  --bg1-light: var(--white);
+  --bg2-light: var(--grey-ee);
+  
+  --fg1-light: var(--black);
+  --fg2-light: var(--grey-44);
+  
+  --accent1-light: var(--cardinal);
+  --accent2-light: var(--lavender-blush);
+  
+  /* Dark colors */
 
-$fg1-light: $black;
-$fg2-light: $grey-44;
+  --bg1-dark: var(--grey-1b);
+  --bg2-dark: var(--grey-33);
 
-$accent1-light: $cardinal;
-$accent2-light: $lavender-blush;
+  --fg1-dark: var(--grey-df);
+  --fg2-dark: var(--grey-aa);
 
-/* Dark colors */
+  --accent1-dark: var(--crayola);
+  --accent2-dark: var(--raisin-black);
 
-$bg1-dark: $grey-1b;
-$bg2-dark: $grey-33;
+  /* Default colors */
 
-$fg1-dark: $grey-df;
-$fg2-dark: $grey-aa;
+  --bg1: var(--bg1-light);
+  --bg2: var(--bg2-light);
+  --fg1: var(--fg1-light);
+  --fg2: var(--fg2-light);
+  --accent1: var(--accent1-light);
+  --accent2: var(--accent2-light);
+}
 
-$accent1-dark: $crayola;
-$accent2-dark: $raisin-black;
+@supports (color: light-dark(#fff, #000)) {
+  :root {
+    --bg1: light-dark(var(--bg1-light), var(--bg1-dark));
+    --bg2: light-dark(var(--bg2-light), var(--bg2-dark));
+    --fg1: light-dark(var(--fg1-light), var(--fg1-dark));
+    --fg2: light-dark(var(--fg2-light), var(--fg2-dark));
+    --accent1: light-dark(var(--accent1-light), var(--accent1-dark));
+    --accent2: light-dark(var(--accent2-light), var(--accent2-dark));
+  }
+}
 
