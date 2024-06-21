@@ -15,7 +15,30 @@ $serif: 'EB Garamond', 'Sahitya', serif;
 $smallcaps: 'EB Garamond SC';
 $mono: monospace;
 
+/* Icons */
+
+.icon-tabler-moon,
+.icon-tabler-sun {
+  vertical-align: baseline;
+  height: $base-size;
+  width: $base-size;
+  stroke: light-dark($fg1-light, $fg1-dark);
+  stroke-width: 1.5;
+}
+
 /* Sass starts here! */
+
+@media (prefers-color-scheme: light) { 
+  .toggle-theme .dark { 
+    display: none; 
+  }
+}
+
+@media (prefers-color-scheme: dark) { 
+  .toggle-theme .light { 
+    display: none; 
+  }
+}
 
 :root {
   color-scheme: light dark;
@@ -169,10 +192,28 @@ header {
 
       li {
         display: inline-block;
-        padding-left: 1rem;
+        padding-left: .4rem;
       }
 
     }
+  }
+}
+
+.masthead {
+  display: flex;
+
+  & > * {
+    flex: 1;
+  }
+
+  .toggle-theme {
+    text-align: right;
+  }
+
+  button {
+    border: none;
+    background: inherit;
+    cursor: pointer;
   }
 }
 

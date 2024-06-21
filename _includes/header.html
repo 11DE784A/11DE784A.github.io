@@ -16,7 +16,15 @@
   
   <body>
     <header>
-      <p>{{ site.description }}</p>
+      <div class="masthead">
+        <p>{{ site.description }}</p>
+        <div class="toggle-theme">
+          <button>
+            <span class="light"> {% include svg/moon.svg %} </span>
+            <span class="dark"> {% include svg/sun.svg %} </span>
+          </button>
+        </div>
+      </div>
 
       <nav>
         <ul>
