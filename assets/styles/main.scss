@@ -4,6 +4,13 @@
 /* Colors! */
 @import 'colors.scss';
 
+$bg1: light-dark($bg1-light, $bg1-dark);
+$bg2: light-dark($bg2-light, $bg2-dark);
+$fg1: light-dark($fg1-light, $fg1-dark);
+$fg2: light-dark($fg2-light, $fg2-dark);
+$accent1: light-dark($accent1-light, $accent1-dark);
+$accent2: light-dark($accent2-light, $accent2-dark);
+
 /* Mixins */
 @import 'mixins.scss';
 
@@ -22,7 +29,7 @@ $mono: monospace;
   vertical-align: baseline;
   height: $base-size;
   width: $base-size;
-  stroke: light-dark($fg1-light, $fg1-dark);
+  stroke: $fg1;
   stroke-width: 1.5;
 }
 
@@ -59,8 +66,8 @@ html {
 }
 
 body {
-  background: light-dark($bg1-light, $bg1-dark);
-  color: light-dark($fg1-light, $fg1-dark);
+  background: $bg1;
+  color: $fg1;
   font-size: $base-size;
   line-height: 1.3;
   margin: 0 auto;
@@ -87,7 +94,7 @@ h6 {
   font-size: 100%;
   font-style: normal;
   font-weight: bold;
-  color: light-dark($fg1-light, $fg1-dark);
+  color: $fg1;
 }
 
 h1 {
@@ -148,12 +155,12 @@ figure {
 p {
   hyphens: auto;
   &.post-date {
-    color: light-dark($fg2-light, $fg2-dark);
+    color: $fg2;
   }
 }
 
 code {
-  border: 0.1px solid light-dark($bg2-light, $bg2-dark);
+  border: 0.1px solid $bg2;
   border-radius: .2rem;
   display: inline-block;
   font-family: $mono;
@@ -169,8 +176,8 @@ code {
 
 
 blockquote {
-  border-left: 0.5rem solid light-dark($bg2-light, $bg2-dark);
-  color: light-dark($fg2-light, $fg2-dark);
+  border-left: 0.5rem solid $bg2;
+  color: $fg2;
   padding: .6rem 0 .6rem 1.8rem;
 
   cite {
@@ -228,7 +235,7 @@ main {
   }
 
   hr {
-    color: light-dark($bg2-light, $bg2-dark);
+    color: $bg2;
     margin: 0 auto;
     margin-bottom: 1.4rem;
     width: 75%;
@@ -239,7 +246,7 @@ article {
   margin-bottom: 1.8rem;
 
   .date {
-    color: light-dark($fg2-light, $fg2-dark);
+    color: $fg2;
   }
 
   .detail {
@@ -267,17 +274,17 @@ a {
   &:link,
   &:visited,
   &:focus {
-    color: light-dark($fg1-light, $fg1-dark);
+    color: $fg1;
   }
 
   &:hover,
   &:active {
-    background: light-dark($accent2-light, $accent2-dark);
+    background: $accent2;
   }
 
   &::after {
     content: "°";
-    color: light-dark($accent1-light, $accent1-dark);
+    color: $accent1;
     margin-left: 0.05 * $base-size;
   }
 }
@@ -287,7 +294,7 @@ a.reversefootnote {
   &:link,
   &:visited,
   &:focus {
-    color: light-dark($accent1-light, $accent1-dark);
+    color: $accent1;
   }
 
   &::after {
@@ -300,7 +307,7 @@ nav a,
   &:link,
   &:visited,
   &:focus {
-    color: light-dark($accent1-light, $accent1-dark);
+    color: $accent1;
     font-weight: bold;
   }
 
@@ -311,13 +318,13 @@ nav a,
 
 
 footer {
-  color: light-dark($fg2-light, $fg2-dark);
+  color: $fg2;
   text-align: right;
 
   a {
     &:link,
     &:visited {
-      color: light-dark($fg2-light, $fg2-dark);
+      color: $fg2;
     }
   }
 }
@@ -366,27 +373,27 @@ footer {
   }
   
   input {
-    border: 1px solid light-dark($fg2-light, $fg2-dark);
+    border: 1px solid $fg2;
     padding: 1rem;
     max-width: 24rem;
     min-width: 10rem;
     flex: auto;
   
     &:focus {
-      border: 1px solid light-dark($accent1-light, $accent1-dark);
+      border: 1px solid $accent1;
     }
   }
   
   button {
     border-radius: 0;
-    background: light-dark($accent1-light, $accent1-dark);
+    background: $accent1;
     color: white;
-    border: 1px solid light-dark($accent1-light, $accent1-dark);
+    border: 1px solid $accent1;
     min-width: 10rem;
   
     &:hover {
       cursor: pointer;
-      background: light-dark($accent1-light, $accent1-dark);
+      background: $accent1;
     }
   }
 }
