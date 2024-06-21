@@ -38,7 +38,7 @@ your public key.
 [Spaghetti](https://github.com/sdgniser/spaghetti),
 [Timetable](https://github.com/sdgniser/timetable).
 
-<figure class="wide">
+<figure class="wide life">
   <video autoplay loop muted playsinline>
     <source src="assets/life.mp4">
     <source src="assets/life.webm">
