@@ -27,12 +27,13 @@ $mono: monospace;
   }
   
   @media (prefers-color-scheme: dark) { 
-    .life video {
-      filter: invert(0.895);
-    }
-  
     img {
       filter: brightness(.8) contrast(1.2);
+    }
+
+    .invert img,
+    .invert video {
+      filter: invert(0.895);
     }
   
     .toggle-theme .light { 
