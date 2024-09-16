@@ -9,7 +9,7 @@ excerpt: In which I try to rephrase the physics understanding of spacetime symme
 In physics, fields are thought of as functions on spacetime that carry indices
 which determine how they transform under symmetries.
 But a cleaner, more satisfying way to think about fields
-is to think differential geometrically: of spacetime as a
+is to think differential geometrically --- of spacetime as a
 [differentiable manifold](https://en.wikipedia.org/wiki/Differentiable_manifold),
 fields as [sections](https://en.wikipedia.org/wiki/Section_(fiber_bundle)) of 
 [vector bundles](https://en.wikipedia.org/wiki/Vector_bundle), and spacetime
