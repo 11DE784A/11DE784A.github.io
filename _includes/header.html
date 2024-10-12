@@ -6,6 +6,7 @@
 
     <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.ico"/>
     <link href="/assets/styles/main.css" rel="stylesheet">
+    <link rel="alternate" type="application/atom+xml" href="{{ site.baseurl }}/feed.xml"/>
 
     <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
@@ -16,21 +17,11 @@
   
   <body>
     <header>
-      <div class="masthead">
-        <p>{{ site.description }}</p>
-        <div class="toggle-theme">
-          <button>
-            <span class="light"> {% include svg/moon.svg %} </span>
-            <span class="dark"> {% include svg/sun.svg %} </span>
-          </button>
-        </div>
-      </div>
-
       <nav>
         <ul>
-          <li><a href="/">Blog</a></li>
-          <li><a href="/notes">Notes</a></li>
-          <li><a href="/about">About</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/archive">Archive</a></li>
+          <li><a href="/feed.xml">Feed</a></li>
         </ul>
       </nav>
 
