@@ -62,11 +62,11 @@ body {
   font-size: $base-size;
   line-height: 1.3;
   margin: 0 auto;
-  max-width: 80rem;
+  max-width: 84rem;
   padding: 3rem 1.8rem 0;
 
   & > * {
-    margin-bottom: 2.4rem;
+    margin-bottom: 1.2rem;
   }
 
 }
@@ -82,10 +82,11 @@ h3,
 h4,
 h5,
 h6 {
+  color: var(--fg1);
   font-size: 100%;
   font-style: normal;
   font-weight: bold;
-  color: var(--fg1);
+  margin-top: 2.4rem;
 }
 
 h1 {
@@ -105,7 +106,7 @@ img,
 video {
   float: right;
   margin-left: 1.6rem;
-  width: 24%;
+  width: 25%;
 }
 
 .wide img,
@@ -118,6 +119,11 @@ video {
   width: 45%;
 }
 
+.small img,
+.small video {
+  width: 25%;
+}
+
 .many {
   display: flex;
   img {
@@ -125,6 +131,12 @@ video {
     margin: .5px;
     min-width: 0;
   }
+}
+
+.circle,
+.circle img,
+.circle video {
+  border-radius: 100%;
 }
 
 figure {
