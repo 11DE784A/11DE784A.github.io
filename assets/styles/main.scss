@@ -116,7 +116,7 @@ video {
 
 .mid img,
 .mid video {
-  width: 45%;
+  width: 50%;
 }
 
 .small img,
@@ -368,3 +368,11 @@ footer {
   stroke-width: 1.5;
 }
 
+@media screen and (max-width: 520px) {
+  .mid img,
+  .mid video,
+  .small img,
+  .small video {
+    width: 100%;
+  }
+}

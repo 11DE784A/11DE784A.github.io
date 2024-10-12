@@ -61,7 +61,7 @@ where $$\Lambda_\ast$$ is the pushforward of vector fields induced by
 $$\Lambda$$.  Once again, this can be identified as the familiar transformation
 law for vector fields from physics textbooks.
 
-<figure class="image wide invert">
+<figure class="image mid invert">
   <img src="/assets/images/spacetime_symmetries/tangent_bundle_map.png">
 </figure>
 
@@ -70,7 +70,7 @@ distinct things: (1) moves fibers around, and (2) acts _on_ fibers by a
 linear transformation. How precisely these two decouple, is the content of the
 universal property of [pullback bundles](https://en.wikipedia.org/wiki/Pullback_bundle).
 
-<figure class="image wide invert">
+<figure class="image mid invert">
   <img src="/assets/images/spacetime_symmetries/tangent_bundle_map_factored.png">
 </figure>
 
@@ -135,14 +135,14 @@ discussion above on vector fields, once we note that vector bundle maps induce
 maps of associated frame bundles. So, a diffeomorphism induces the
 principal bundle map
 
-<figure class="image wide invert">
+<figure class="image mid invert">
   <img src="/assets/images/spacetime_symmetries/principal_bundle_map.png">
 </figure>
 
 which factors uniquely through the pullback bundle, $$\Lambda^\ast \mathrm{SO}(M) \cong
 \mathrm{SO}(M)$$ as
 
-<figure class="image wide invert">
+<figure class="image mid invert">
   <img src="/assets/images/spacetime_symmetries/principal_bundle_map_factored.png">
 </figure>
 
