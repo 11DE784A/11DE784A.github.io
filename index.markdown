@@ -39,12 +39,16 @@ To receive an encrypted response, send me your public key.
 
 ## Fun Stuff
 
-I am currently reading _The Farthest Shore_ by Ursula K. Le Guin. I recently
-finished reading _Fluids_ by May Leitz.
+I am currently reading 
+_The Sapling Cage_ by Margaret Killjoy, 
+and 
+_Entitled_ by Kate Manne. 
+I recently finished reading 
+_Normal People_ by Sally Rooney.
 
-I recently watched (and loved!) _Godzilla Minus One_. 
+I recently watched _Love Lies Bleeding_. 
 
-I am currently playing _Signalis_, and getting back into _Minecraft_.
+I recently finished a playthrough of _Signalis_.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
