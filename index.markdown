@@ -40,13 +40,13 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading 
+_Seeing Like a Feminist_ by Nivedita Menon.
+I recently finished reading 
 _The Sapling Cage_ by Margaret Killjoy, 
 and 
 _Entitled_ by Kate Manne. 
-I recently finished reading 
-_Normal People_ by Sally Rooney.
 
-I recently watched _Love Lies Bleeding_. 
+I recently watched _Longlegs_. 
 
 I recently finished a playthrough of _Signalis_.
 
