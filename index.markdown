@@ -40,13 +40,11 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading 
-_Seeing Like a Feminist_ by Nivedita Menon.
+_Who Was Shivaji?_ by Govind Pansare.
 I recently finished reading 
-_The Sapling Cage_ by Margaret Killjoy, 
-and 
-_Entitled_ by Kate Manne. 
+_Seeing Like a Feminist_ by Nivedita Menon.
 
-I recently watched _Longlegs_. 
+I recently watched _Anora_. 
 
 I recently finished a playthrough of _Signalis_.
 
