@@ -40,9 +40,9 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading 
-_Who Was Shivaji?_ by Govind Pansare.
+_Somanatha_ by Romila Thapar.
 I recently finished reading 
-_Seeing Like a Feminist_ by Nivedita Menon.
+_Who Was Shivaji?_ by Govind Pansare.
 
 I recently watched _Anora_. 
 
