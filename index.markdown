@@ -40,13 +40,13 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading 
-_Somanatha_ by Romila Thapar.
+_The Stepford Wives_ by Ira Levin.
 I recently finished reading 
-_Who Was Shivaji?_ by Govind Pansare.
+_Rejection_ by Tony Tulathimutte.
 
-I recently watched _Anora_. 
+I recently watched _Hit Man_. 
 
-I recently finished a playthrough of _Signalis_.
+I am in the middle of my first playthrough of _Baldur's Gate 3_.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
