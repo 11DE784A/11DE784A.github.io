@@ -40,13 +40,13 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading 
-_The Stepford Wives_ by Ira Levin.
+_Orbital_ by Samantha Harvey.
 I recently finished reading 
-_Rejection_ by Tony Tulathimutte.
+_Intermezzo_ by Sally Rooney.
 
-I recently watched _Hit Man_. 
+I recently watched _The Brutalist_. 
 
-I am in the middle of my first playthrough of _Baldur's Gate 3_.
+I recently started my first playthrough of _Disco Elysium_.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
