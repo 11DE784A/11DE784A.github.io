@@ -40,11 +40,11 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading 
-_Orbital_ by Samantha Harvey.
+_Everything is Tuberculosis_ by John Green.
 I recently finished reading 
 _Intermezzo_ by Sally Rooney.
 
-I recently watched _The Brutalist_. 
+I recently watched _Black Bag_.
 
 I recently started my first playthrough of _Disco Elysium_.
 
