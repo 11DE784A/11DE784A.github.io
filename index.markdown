@@ -40,13 +40,13 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading 
-_Everything is Tuberculosis_ by John Green.
+_The Fellowship of the Ring_ by J. R. R. Tolkein.
 I recently finished reading 
-_Intermezzo_ by Sally Rooney.
+_Everything is Tuberculosis_ by John Green.
 
-I recently watched _Black Bag_.
+I recently watched _Mission: Impossible – The Final Reckoning_.
 
-I recently started my first playthrough of _Disco Elysium_.
+I recently started my first playthrough of _Cryptmaster_.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
