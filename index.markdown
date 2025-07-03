@@ -20,7 +20,7 @@ between SISSA and ICTP.
   </video>
 </figure>
 
-In my free time, I like board games, horror media, cooking, singing, and silly
+In my free time, I like board games, TTRPGs, horror media, cooking, singing, and silly
 puns. I also like writing [code](https://github.com/{{ site.github_username
 }}), and I [blog](/archive) sometimes.
 
@@ -39,8 +39,8 @@ To receive an encrypted response, send me your public key.
 
 ## Fun Stuff
 
-I am currently reading 
-_The Fellowship of the Ring_ by J. R. R. Tolkein.
+I am reading _The Lord of the Rings_ by J. R. R. Tolkein.
+I am currently in the middle of _The Two Towers_.
 I recently finished reading 
 _Everything is Tuberculosis_ by John Green.
 
