@@ -91,7 +91,7 @@ h6 {
 
 h1 {
   font-size: 1.4 * $base-size;
-  font-weight: normal;
+ font-weight: normal;
 }
 
 h2 {
@@ -323,7 +323,7 @@ nav a,
 
 footer {
   color: var(--fg2);
-  text-align: right;
+  // text-align: right;
 
   a {
     &:link,
