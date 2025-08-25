@@ -40,11 +40,11 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am reading _The Lord of the Rings_ by J. R. R. Tolkein.
-I am currently in the middle of _The Two Towers_.
+I am currently in the middle of _The Return of the King_.
 I recently finished reading 
 _Everything is Tuberculosis_ by John Green.
 
-I recently watched _Mission: Impossible – The Final Reckoning_.
+I recently watched the new _Superman_ movie.
 
 I recently started my first playthrough of _Cryptmaster_.
 
