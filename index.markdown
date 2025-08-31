@@ -39,14 +39,14 @@ To receive an encrypted response, send me your public key.
 
 ## Fun Stuff
 
-I am reading _The Lord of the Rings_ by J. R. R. Tolkein.
-I am currently in the middle of _The Return of the King_.
-I recently finished reading 
-_Everything is Tuberculosis_ by John Green.
+I am currently reading
+_Orbital_ by Samantha Harvey. 
+I recently finished reading
+_The Lord of the Rings_ by J. R. R. Tolkein.
 
-I recently watched the new _Superman_ movie.
+I recently watched Zach Cregger's _Weapons_.
 
-I recently started my first playthrough of _Cryptmaster_.
+I recently started my playing _Doom_ (2016).
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
