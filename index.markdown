@@ -40,11 +40,12 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_Orbital_ by Samantha Harvey. 
+_Lock In_ by John Scalzi. I am also listening to _The Silmarillion_ audiobook
+narrated by Andy Serkis.
 I recently finished reading
-_The Lord of the Rings_ by J. R. R. Tolkein.
+_Orbital_ by Samantha Harvey. 
 
-I recently watched Zach Cregger's _Weapons_.
+I recently watched _The Lord of the Rings: The Two Towers_.
 
 I recently started my playing _Doom_ (2016).
 
