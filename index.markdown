@@ -40,10 +40,11 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_Lock In_ by John Scalzi. I am also listening to _The Silmarillion_ audiobook
+_Dinosaurs_ by Lydia Millet.
+I am also listening to _The Silmarillion_ audiobook
 narrated by Andy Serkis.
 I recently finished reading
-_Orbital_ by Samantha Harvey. 
+_Lock In_ by John Scalzi. 
 
 I recently watched _The Lord of the Rings: The Two Towers_.
 
