@@ -40,15 +40,15 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_Dinosaurs_ by Lydia Millet.
+_A Psalm for the Wild Built_ by Becky Chambers.
 I am also listening to _The Silmarillion_ audiobook
 narrated by Andy Serkis.
 I recently finished reading
-_Lock In_ by John Scalzi. 
+_Dinosaurs_ by Lydia Millet.
 
 I recently watched _The Lord of the Rings: The Two Towers_.
 
-I recently started my playing _Doom_ (2016).
+I recently started playing _Doom_ (2016).
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
