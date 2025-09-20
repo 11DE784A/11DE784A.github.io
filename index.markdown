@@ -40,13 +40,13 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_A Psalm for the Wild Built_ by Becky Chambers.
+_A Prayer for the Crown-Shy_ by Becky Chambers.
 I am also listening to _The Silmarillion_ audiobook
 narrated by Andy Serkis.
 I recently finished reading
-_Dinosaurs_ by Lydia Millet.
+_A Psalm for the Wild-Built_ by Becky Chambers.
 
-I recently watched _The Lord of the Rings: The Two Towers_.
+I recently watched Ralph Bakshi's _The Lord of the Rings_ (1978).
 
 I recently started playing _Doom_ (2016).
 
