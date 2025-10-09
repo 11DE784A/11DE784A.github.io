@@ -17,7 +17,7 @@ title: Ayush Singh
 description: >- # this means to ignore newlines until "baseurl:"
     Ayush Singh's Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.11de784a.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 email: singhayush@protonmail.com
 obf_email: singhayush<span style="display:none">GOAWAY!</span>@<!-- rGOIc8s6jZ -->pm.me
@@ -30,10 +30,6 @@ license:
 
 
 # Books I am currently reading
-currentbooks:
-  - title: American Gods
-    author: Neil Gaiman
-
 
 # Build settings
 markdown: kramdown
