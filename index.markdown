@@ -41,14 +41,11 @@ To receive an encrypted response, send me your public key.
 
 I am currently reading
 _The Devil and the Dark Water_ by Stuart Turton.
-I am also listening to _The Silmarillion_ audiobook
-narrated by Andy Serkis.
 I recently finished reading
 _A Prayer for the Crown-Shy_ by Becky Chambers.
 
-I recently watched _One Battle After Another_ (2025).
-
-I recently started playing _Doom_ (2016).
+I recently watched _Gladiator_ (2000). I am also watching _Andor_ and
+_Pluribus_.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
