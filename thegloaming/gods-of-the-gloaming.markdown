@@ -1,31 +1,11 @@
 ---
-title: The Gloaming
+title: Gods of the Gloaming
 layout: default
 ---
 
-# The Gloaming
+# Gods of the Gloaming
 
-This page contains information about the Dungeons and Dragons 2024 campaign I
-am running in _The Gloaming_ mini-setting from _Shadowdark "Cursed Scroll"
-Zine Volume&nbsp;1_. The campaign is set in an ancient cursed forest home to cultists,
-demons, orcs, trolls, werewolves, witches, an order of cursed knights, a lost
-wizard, and malevolent eldritch entities. 
-
-## Adventuring Party
-
-__Level__: 3
-
-__Corvin Thorne.__ Human Warlock (Fiend Patron) of [redacted].
-
-__Edran Vale.__ Human Warlock (Great Old One Patron) of Mugdulblub.
-
-__Elowen Truthbearer.__ Human Paladin (Oath of Devotion) of St. Terragnis.
-
-__Jake.__ Human Monk (Warrior of Shadow) who serves Madeera.
-
-__Kayle.__ Aasimar Bard / Paladin of St. Terragnis.
-
-## Gods of the Gloaming
+## The Four Lords
 
 Most folk worship one of The Four Lords, the lawful and neutral gods who stand
 for justice, order, and mercy. 
@@ -46,6 +26,8 @@ storms rage when her anger rises. Many elves and halflings worship her.
 Ord the Unbending, the Wise, the Secret-Keeper. He is the god of magic,
 knowledge, secrets, and equilibrium.
 
+## The Dark Trio
+
 Others worship one of the so-called Dark Trio, chaotic deities
 who evince freedom, anarchy, and disorder.
 
@@ -63,9 +45,13 @@ coming doom.
 Shune whispers arcane secrets to sorcerers and witches who call to her in the
 dark hours. She schemes to free the vast flow of magic by displacing Ord.
 
+## The Lost
+
 Two of The Nine are lost to the ages, their names expunged from history and
 memory. Yet their whispered legend lives on in ancient texts and forgotten
 places...
+
+## Patrons
 
 Mugdulblub and The Willowman are two of the many eldritch beings of immense
 power who grant boons in exchange of their petitioners' service.
@@ -77,3 +63,6 @@ the stars. Mugdulblub seeks the dissolution of all physical form.
 - __The Willowman.__
 A ghostly, elongated being who stalks misty forests and watches from the edge
 of nightmares. The Willowman seeks fear.
+
+- __???__
+
