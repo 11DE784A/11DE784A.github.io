@@ -40,11 +40,11 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_The Devil and the Dark Water_ by Stuart Turton.
+_The Lamb Will Slaughter the Lion_ by Margaret Killjoy.
 I recently finished reading
-_A Prayer for the Crown-Shy_ by Becky Chambers.
+_Martyr!_ by Kaveh Akbar.
 
-I recently watched _Gladiator_ (2000). I am also watching _Andor_ and
+I recently watched _The Dinner Plan_. I am also watching _Andor_ and
 _Pluribus_.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
