@@ -66,3 +66,11 @@ of nightmares. The Willowman seeks fear.
 
 - __???__
 
+---
+
+Contents of this page have been adapted from _[Shadowdark
+RPG](https://www.thearcanelibrary.com/pages/shadowdark)_ and _[Cursed Scroll 1:
+Diablerie!](https://www.thearcanelibrary.com/collections/cursed-scroll-zine/products/cursed-scroll-zine-vol-1-diablerie-print)_
+&copy; [The Arcane Library, LLC](https://www.thearcanelibrary.com/). Reproduced
+for personal use.
+
