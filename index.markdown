@@ -40,11 +40,11 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_The Lamb Will Slaughter the Lion_ by Margaret Killjoy.
+_Neuromancer_ by William Gibson.
 I recently finished reading
-_Martyr!_ by Kaveh Akbar.
+_Katabasis_ by R.F. Kuang.
 
-I recently watched _The Dinner Plan_. I am also watching _Andor_ and
+I recently rewatched _RRR_. I am also watching _Andor_ and
 _Pluribus_.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
