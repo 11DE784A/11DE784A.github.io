@@ -44,8 +44,10 @@ _Neuromancer_ by William Gibson.
 I recently finished reading
 _Katabasis_ by R.F. Kuang.
 
-I recently rewatched _RRR_. I am also watching _Andor_ and
+I recently watched _Marty Supreme_. I am also watching _Andor_ and
 _Pluribus_.
+
+I recently finished the main story of _Control_ (2019).
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
