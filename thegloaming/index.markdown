@@ -33,3 +33,9 @@ __Kayle.__ Aasimar Paladin / Bard (College of Glamour) of St. Terragnis.
 
 [Magic Items](./magic-items)
 
+## Map
+
+<figure class="image wide invert">
+  <img src="/thegloaming/map.jpg">
+</figure>
+
