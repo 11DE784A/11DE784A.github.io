@@ -5,6 +5,43 @@ layout: default
 
 # Magic Items (and homebrew abilities)
 
+## Demon Skull
+
+_Wondrous Item, Artifact, requires attunement_
+
+Skull of a wolf-headed arch-demon. Its empty eye sockets have a sinister purple
+glow.
+
+__Soul Devourer.__ When a creature dies within 30 feet of you, you can
+use your Reaction to have the skull devour its soul (DC 11 Wisdom Saving Throw
+to resist). You can burn souls to use or enhance the certain abilities.
+
+__Rise from Death.__ When you fail a Death Saving Throw, you can sacrifice a Hit
+Point Die to regain Hit Points (roll on Hit Die + Constitution modifier). Hit
+Dice spent this way are permanently lost, reducing your Hit Point maximum as a
+result.
+
+__Demon Soul.__ As an Action, you can sacrifice a number of devoured souls
+equal to your level to assume the form of a Demon (max CR = your level divided
+by 4). While in this form, you do not benefit from your original race or class
+abilities, but you can cast your spells normally if you assume a form that can
+cast spells.
+
+You can maintain this form for 1 hour or until you drop Unconscious, after
+which you revert to your original form.
+
+__???.__
+
+## Defiled Armor of Saint Ydris
+
+_Heavy Armor (Splint Armor), Uncommon, requires attunement_
+
+Black plate mail of cast iron panels. The carved symbol of the Knights of Saint
+Ydris on the breast plate has been defiled by its previous owner.
+
+__Hellish Rebuke (1/day).__ You can cast Hellish Rebuke once per day (spell
+save DC 13).
+
 ## Ring of Ramlaat
 
 _Ring, Rare, requires attunement_

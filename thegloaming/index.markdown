@@ -13,9 +13,13 @@ The campaign is set in an ancient cursed forest home to cultists, demons, orcs,
 trolls, werewolves, witches, an order of cursed knights, a lost
 wizard, and malevolent eldritch entities. 
 
+<figure class="image wide invert">
+  <img src="/thegloaming/map.jpg">
+</figure>
+
 ## Adventuring Party
 
-__Level__: 4
+__Level__: 5
 
 __Corvin Thorne.__ Human Warlock (Fiend Patron) of [redacted].
 
@@ -32,10 +36,4 @@ __Kayle.__ Aasimar Paladin / Bard (College of Glamour) of St. Terragnis.
 [Gods of the Gloaming](./gods-of-the-gloaming)
 
 [Magic Items](./magic-items)
-
-## Map
-
-<figure class="image wide invert">
-  <img src="/thegloaming/map.jpg">
-</figure>
 
