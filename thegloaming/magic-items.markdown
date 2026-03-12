@@ -5,6 +5,49 @@ layout: default
 
 # Magic Items (and homebrew abilities)
 
+
+# Shield of the Shifting Moon 
+
+_Armor (Shield), Very Rare (Requires Attunement)_
+
+The edge of this round shield is inlaid with a delicate design showing phases
+of the moon. The designs glow slightly as the moon progresses through its
+phases (from _[Arcadia 20](https://shop.mcdmproductions.com/collections/arcadia)_
+&copy; [MCDM Productions, LLC](https://www.mcdmproductions.com/)).
+
+While wielding this shield, you gain a +1 bonus to AC.
+
+Additionally, the shield has different properties depending on the current
+lunar phase:
+
+__New Moon.__ You can cast the Darkness spell at will, centered on the shield.
+When you cast the spell in this way, the magical darkness doesn’t affect your
+vision. In addition, you can use a Bonus Action to become invisible, along
+with anything you are wearing or carrying as long as it is on your person, for
+up to 1 minute. Once you use this property of the shield, you can’t use it
+again until the next night with a new moon.
+
+__Waxing Moon.__ You can cast Faerie Fire (save DC 17) at will. In addition,
+you can use a Bonus Action to choose up to three creatures within 30 feet of
+you. For the next minute, each creature is imbued with lunar power and can add
+1d4 to their attack rolls, saving throws, and damage rolls (this extra damage
+is radiant damage). Once you use this property of the shield, you can’t use it
+again until the next dawn.
+
+__Full Moon.__ You can cast the See Invisibility spell at will. In addition,
+you can use an Action to call down lunar radiance in a 20-foot radius centered
+on a point within 120 feet of you. Each creature of your choice in the area
+must make a DC 17 Constitution Saving Throw, taking 8d6 radiant damage on a
+failed save, or half as much damage on a successful one. Once you use this
+property of the shield, you can’t use it again until the next night with a full
+moon.
+
+__Waning Moon.__ You can cast Pass Without Trace at will without components. In
+addition, you can use a Bonus Action to choose one creature within 30 feet of
+you. For the next minute, that creature must subtract 1d4 from their attack
+rolls, saving throws, and damage rolls. Once you use this property of the
+shield, you can’t use it again until the next dusk.
+
 ## Demon Skull
 
 _Wondrous Item, Artifact, requires attunement_
