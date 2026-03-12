@@ -40,14 +40,14 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_Neuromancer_ by William Gibson.
+_Dune Messiah_ by Frank Herbert.
 I recently finished reading
 _Katabasis_ by R.F. Kuang.
 
-I recently watched _Marty Supreme_. I am also watching _Andor_ and
-_Pluribus_.
+I recently watched _If I Had Legs I'd Kick You_. I am also rewatching
+_Dimension 20: Fantasy High_.
 
-I recently finished the main story of _Control_ (2019).
+I started playing _Doom_ (2016) again.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
