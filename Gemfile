@@ -31,7 +31,7 @@ end
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 
-gem "json", "~> 2.7"
+gem "json", "~> 2.19"
 
 gem "erb", "~> 4.0"
 
