@@ -6,7 +6,7 @@ layout: default
 # Magic Items (and homebrew abilities)
 
 
-# Shield of the Shifting Moon 
+## Shield of the Shifting Moon 
 
 _Armor (Shield), Very Rare (Requires Attunement)_
 
@@ -95,9 +95,10 @@ RPG](https://www.thearcanelibrary.com/pages/shadowdark)_ &copy; [The Arcane
 Library, LLC](https://www.thearcanelibrary.com/)).
 
 When your hit point total drops to zero while wearing this ring, you can remain
-conscious and keep fighting. You take a -1 penalty to your constitution score
-for every round you spend fighting this way.  You must complete a long rest and
-succeed a DC 12 Constitution Saving Throw to restore your constitution score.
+conscious and keep fighting. Any damage you take while fighting this way
+results in failed Death Saving throws, and you take -1 penalty to your
+constitution score every round. You must complete a long rest and succeed a DC
+12 Constitution Saving Throw to restore your constitution score.
 
 ## Pebble of Predictability
 
