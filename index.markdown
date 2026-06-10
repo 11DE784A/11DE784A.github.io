@@ -40,14 +40,14 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_Dune Messiah_ by Frank Herbert.
+_Dune Messiah_ by Frank Herbert
 I recently finished reading
-_Katabasis_ by R.F. Kuang.
+_The Devil and the Dark Water_ by Stuart Turton.
 
-I recently watched _If I Had Legs I'd Kick You_. I am also rewatching
-_Dimension 20: Fantasy High_.
+I recently watched _Close Encounters of the Third Kind (1977)_. I am also
+watching _Twin Peaks_ and _Dimension 20: City Council of Darkness_.
 
-I started playing _Doom_ (2016) again.
+<!--I started playing _Doom_ (2016) again.-->
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
