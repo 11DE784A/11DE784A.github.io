@@ -40,14 +40,15 @@ To receive an encrypted response, send me your public key.
 ## Fun Stuff
 
 I am currently reading
-_Dune Messiah_ by Frank Herbert
+_The Black Company_ by Glen Cook,
 I recently finished reading
-_The Devil and the Dark Water_ by Stuart Turton.
+_Dune Messiah_ by Frank Herbert.
 
-I recently watched _Close Encounters of the Third Kind (1977)_. I am also
-watching _Twin Peaks_ and _Dimension 20: City Council of Darkness_.
+I recently watched _Cape Fear (1991)_. I am also
+watching _How to Get to Heaven from Belfast_ and _Twin Peaks_.
 
 <!--I started playing _Doom_ (2016) again.-->
+I have been playing a lot of _NetHack_. I keep dying in the Gnomish Mines.
 
 I helped produce [NiSERCast](https://nisercast.gitlab.io) --- a science
 communication podcast based on conversations between professors and
