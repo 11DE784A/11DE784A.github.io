@@ -5,6 +5,25 @@ layout: default
 
 # Magic Items (and homebrew abilities)
 
+<!-- - [Diplomat's Pouch](#diplomats-pouch) -->
+- [Shield of the Shifting Moon](#shield-of-the-shifting-moon)
+- [Demon Skull](#demon-skull)
+- [Defiled Armor of Saint Ydris](#defiled-armor-of-saint-ydris)
+- [Ring of Ramlaat](#ring-of-ramlaat)
+- [Pebble of Predictability](#pebble-of-predictability)
+- [Nine Lives](#nine-lives)
+- [Slime Form](#slime-form)
+- [Night Hunter's Knife](#night-hunters-knife)
+
+<!-- ## Diplomat's Pouch
+
+_Wondrous Item, Uncommon_
+
+A letter placed in this pouch, addressed to someone who owns another diplomat's
+pouch, disappears, and the recipient listed in the letter finds a copy of it in
+their pouch. A letter can be listed to multiple recipients with a diplomat's
+pouch (from _[Strongholds & Followers](https://shop.mcdmproductions.com/products/strongholds-followers-pdf)_ 
+&copy; [MCDM Productions, LLC](https://www.mcdmproductions.com/)). -->
 
 ## Shield of the Shifting Moon 
 

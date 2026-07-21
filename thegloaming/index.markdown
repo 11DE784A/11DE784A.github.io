@@ -19,7 +19,7 @@ wizard, and malevolent eldritch entities.
 
 ## Adventuring Party
 
-__Level__: 5
+__Level__: 6--7
 
 __Corvin Thorne.__ Human Warlock (Fiend Patron) of [redacted].
 
@@ -31,11 +31,14 @@ __Jake.__ Human Monk (Warrior of Shadow) who serves Madeera.
 
 __Kayle.__ Aasimar Paladin / Bard (College of Glamour) of St. Terragnis.
 
-## Info
+__Pickles.__ Human Rogue (Thief).
 
-[Gods of the Gloaming](./gods-of-the-gloaming)
+## Info
 
 [Magic Items](./magic-items)
 
-[Retainers and Units](./retainers-and-units)
+[Units](./units)
 
+[Retainers](./retainers)
+
+[Gods of the Gloaming](./gods-of-the-gloaming)
